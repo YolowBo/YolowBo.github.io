@@ -201,7 +201,7 @@ padding-left: 3%;
   background-color: rgb(108, 224, 156);
   height: 420px;
   width: 100%;
-  min-width: 300px;
+  min-width: 350px;
   margin: auto;
 }
 
@@ -211,7 +211,7 @@ padding-left: 3%;
   margin: auto;
   height: 80px;
   width:100%;
-  min-width: 300px;
+  min-width: 350px;
   background-color: rgb(63, 151, 116);
 }
 
@@ -221,7 +221,7 @@ padding-left: 3%;
   margin-top: 3%;
   height: 100%;
   width:70%;
-  min-width: 300px;
+  min-width: 350px;
   padding-bottom: 3%;
 }
 
