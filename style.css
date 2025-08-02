@@ -201,7 +201,7 @@ padding-left: 3%;
   background-color: rgb(108, 224, 156);
   height: 420px;
   width: 100%;
-  min-width: 250px;
+  min-width: 300px;
   margin: auto;
 }
 
@@ -211,7 +211,7 @@ padding-left: 3%;
   margin: auto;
   height: 80px;
   width:100%;
-  min-width: 250px;
+  min-width: 300px;
   background-color: rgb(63, 151, 116);
 }
 
@@ -221,7 +221,7 @@ padding-left: 3%;
   margin-top: 3%;
   height: 100%;
   width:70%;
-  min-width: 250px;
+  min-width: 300px;
   padding-bottom: 3%;
 }
 
@@ -246,7 +246,7 @@ padding-left: 3%;
   background-color: black;
   opacity: 0.75;
   transform:translate(0px, -100%);
-
+  min-width: 300px;
   display:none;
 }
 
@@ -480,15 +480,6 @@ margin-bottom: 1%;
 
 .SubContentText p {
   font-size: 3.5vw;
-}
-
-
-.MiniGameHeader{
-   min-width: 380px;
-}
-
-#MiniGamePanel{
-   min-width: 380px;
 }
 
 #qrCodeImg{display:none;}
